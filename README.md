@@ -1,2 +1,2 @@
 # ConsolePlugins
-A simple onsole application plugs framework 
+A simple console application plugs framework 
